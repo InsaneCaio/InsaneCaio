@@ -25,12 +25,12 @@ Estudante da Faculdade de Tecnologia de Sorocaba (FATEC-SO) e entusiasta de dese
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/InsaneCaio/SICA">
-          <img alt="SICA" src="https://github.com/user-attachments/assets/e6d7612c-2bd8-4474-9f1b-9334e2ae5244" width="60%"/>
+          <img alt="SICA" src="https://github.com/user-attachments/assets/077b944a-a697-4324-8437-e95b4b20915b" width="60%" /> 
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/InsaneCaio/sistema-orcamento">
-          <img alt="SODB" src="https://github.com/user-attachments/assets/acfb568a-f6de-4016-bc51-ae477c999737" width="60%"/>
+          <img alt="SODB" src="https://github.com/user-attachments/assets/6d5201f0-2235-4bab-bb82-c10153d84c2f" width="60%" />
         </a>
       </td>
     </tr>
@@ -40,4 +40,5 @@ Estudante da Faculdade de Tecnologia de Sorocaba (FATEC-SO) e entusiasta de dese
     </tr>
   </table>
 </div>
+
 
